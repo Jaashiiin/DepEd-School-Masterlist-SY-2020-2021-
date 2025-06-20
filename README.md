@@ -6,4 +6,6 @@ You can find the dataset <a href="https://www.deped.gov.ph/alternative-learning-
 Developed visual insights utilizing Matplotlib and Seaborn to showcase trends across school types, regions, and classifications.
 
 ![dep](https://github.com/user-attachments/assets/2c3db478-8487-47bc-8374-2c52072ddce0)
+![dep2](https://github.com/user-attachments/assets/efe55248-332e-4978-aaee-5d15a33dc280)
+![dep3](https://github.com/user-attachments/assets/bbf67ea8-7d46-4d26-94c6-6182bb5913a9)
 ![dep1](https://github.com/user-attachments/assets/70f0d677-3d48-49d0-b2e7-ad68bfc9b5d6)
